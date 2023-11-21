@@ -1,0 +1,134 @@
+html{
+    background-color: #EBE1EF;
+    overflow-x: hidden;
+}
+
+
+.header-section{
+    background-color: #EBE1EF;
+    /* padding: 10px 0 50px 10px; */
+    padding: 40px 0 40px 150px;
+    margin: 0 0;
+}
+
+.homepage-section{
+    background-color: #EBE1EF;
+
+}
+
+
+
+.brand-name{
+    /* font-family: 'Teko', sans-serif; */
+    font-family: 'Roboto Mono', monospace;
+    font-size: 2.5rem;
+    color: #212B43;
+    margin: 0 0;
+    padding: 0 0;
+    font-weight: bold;
+}
+
+.homepage-div{
+    margin: 0 0 50px 0;
+}
+
+.todo-form{
+    text-align: center;
+}
+
+.todo-button{
+    /* width: auto; */
+    /* height: 40px; */
+    font-family: 'Balsamiq Sans', sans-serif;
+    background-color: #8a5bd6;
+    color: #e6e1ea;
+}
+
+.todo-button:hover{
+    background-color: #212B43;
+    color: #CDC5D5;
+}
+
+.deleteAll-div{
+    padding-right: 20px;
+    display: inline;
+    padding-left: 10px;
+}
+
+.todo-bttn-deleteAll{
+    font-family: 'Balsamiq Sans', sans-serif;
+    background-color: #8a5bd6;
+    color: #e6e1ea;
+}
+
+.todo-bttn-deleteAll:hover{
+    background-color: #212B43;
+    color: #CDC5D5;
+}
+
+
+.todo-input-div{
+    padding-right: 20px;
+    display: inline;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.todo-input{
+    background-color: #DAC7E2;
+    color: #8a5bd6;
+    font-family: 'Roboto Mono', monospace;
+    width: 40%;
+    height: 40px;
+    font-size: 1rem;
+    border-radius: 11px;
+    padding: 10px 10px;
+    border: transparent;
+}
+
+.notes-container{
+    margin: 20px 20px;
+    padding: 0 0;
+}
+
+.notes-div{
+    background-color: #bfb1ce;
+    color: #212B43;
+    width: 300px;
+    height: auto;
+    display: inline-block;
+    text-align: center;
+    margin: 0 0 0 0 ;
+    padding: 0 0;
+    border-radius: 10px;
+    word-wrap: break-word
+}
+
+.subnote{
+    margin: 0 0;
+    padding: 0 0;
+}
+
+.toDoList-editables-div{
+    background-color: #bfb1ce;
+    text-align: right;
+    border-radius: 10px;
+}
+
+.strikeBttn{
+    font-family: 'Balsamiq Sans', sans-serif;
+    color: #212B43;
+    font-size: 1.4rem;
+}
+
+.removeItemBttn{
+    font-family: 'Balsamiq Sans', sans-serif;
+    color: #212B43;
+    font-size: 1.4rem;
+}
+
+.toDo-data{
+    font-family: 'Roboto Mono', monospace 'Vazirmatn', sans-serif;
+    color: #212B43;
+    font-size: 1.6rem;
+}
